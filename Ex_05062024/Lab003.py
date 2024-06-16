@@ -1,7 +1,7 @@
+print("Hello", "My Name is", "Veeresh",sep="_", end="\t")
+print("I am from", "Andhra Pradesh")
 
-print("Hellow world")
-i = input("Enter the number:")
-if i == 5:
-    print("Number is equal")
-else:
-    print("Number is not equal")
+print("Welcome to Python course", end=" ")
+print("I am want to learn Python ")
+
+
