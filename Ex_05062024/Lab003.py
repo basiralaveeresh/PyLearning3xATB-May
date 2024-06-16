@@ -2,6 +2,6 @@
 print("Hellow world")
 i = input("Enter the number:")
 if i == 5:
-    print("Given number is correct")
+    print("Number is equal")
 else:
-    print("Not equal to 5")
+    print("Number is not equal")
