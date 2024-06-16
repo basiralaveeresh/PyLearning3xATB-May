@@ -1,4 +1,4 @@
-print()
+
 print("Hellow world")
 i = input("Enter the number:")
 if i == 5:
