@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="90043e91-121b-4148-831d-8d03af9316da" name="Changes" comment="Adding Lab0017.py">
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab017.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab019.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab020.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="90043e91-121b-4148-831d-8d03af9316da" name="Changes" comment="Adding While loops">
+      <change afterPath="$PROJECT_DIR$/Ex_12062024/Lab021.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,35 +67,14 @@
     "Python.Lab018.executor": "Run",
     "Python.Lab019.executor": "Run",
     "Python.Lab020.executor": "Run",
+    "Python.Lab021.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab020">
-    <configuration name="Lab0017" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PyLearning3xATB-May" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_17062024" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_17062024/Lab0017.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Lab021">
     <configuration name="Lab017" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyLearning3xATB-May" />
       <option name="ENV_FILES" value="" />
@@ -188,13 +163,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab021" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyLearning3xATB-May" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ex_12062024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ex_12062024/Lab021.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab021" />
         <item itemvalue="Python.Lab020" />
         <item itemvalue="Python.Lab019" />
         <item itemvalue="Python.Lab018" />
         <item itemvalue="Python.Lab017" />
-        <item itemvalue="Python.Lab0017" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +307,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718687756937</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Adding While loops">
+      <option name="closed" value="true" />
+      <created>1718751019284</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1718751019284</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -324,7 +329,8 @@
     <MESSAGE value="Literals" />
     <MESSAGE value="change in text from sameples to sample" />
     <MESSAGE value="Adding Lab0017.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Lab0017.py" />
+    <MESSAGE value="Adding While loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding While loops" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
